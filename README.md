@@ -1,8 +1,5 @@
 # Greyhound Racing Simulator
-A C++ simulation of greyhound racing aims to model the random environment associated with greyhound racing.
-
-### Overview
-This project started as an attempt to model the randomness in greyhound racing the way a bookmaker actually would. 
+A C++ simulation of greyhound racing aims to model the random environment associated with greyhound racing. 
 
 ### How it works
 1. Attribute generation: A json files contains the stereotypes of 100 different runners which is selected at random for each race.
@@ -14,4 +11,4 @@ This project started as an attempt to model the randomness in greyhound racing t
 
 ### Tech Stack
 Language: C++
-Libraries: Splashkit 
+Libraries: Splashkit, STL
