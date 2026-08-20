@@ -1,0 +1,804 @@
+{
+  "dogs": [
+    {
+      "name": "Rocket Flare",
+      "age": 1.9,
+      "speed": 75.5,
+      "luck": 73,
+      "win_pct": 15.7,
+      "total_races": 10
+    },
+    {
+      "name": "Shadow Dancer",
+      "age": 2.0,
+      "speed": 88.5,
+      "luck": 93,
+      "win_pct": 20.0,
+      "total_races": 5
+    },
+    {
+      "name": "Blaze Runner",
+      "age": 1.0,
+      "speed": 76.9,
+      "luck": 72,
+      "win_pct": 11.9,
+      "total_races": 3
+    },
+    {
+      "name": "Thunder Bolt",
+      "age": 2.0,
+      "speed": 89.0,
+      "luck": 78,
+      "win_pct": 24.9,
+      "total_races": 10
+    },
+    {
+      "name": "Iron Claw",
+      "age": 1.4,
+      "speed": 92.4,
+      "luck": 89,
+      "win_pct": 19.1,
+      "total_races": 8
+    },
+    {
+      "name": "Swift Paw",
+      "age": 1.5,
+      "speed": 78.1,
+      "luck": 95,
+      "win_pct": 18.6,
+      "total_races": 13
+    },
+    {
+      "name": "Crimson Tide",
+      "age": 1.5,
+      "speed": 82.2,
+      "luck": 76,
+      "win_pct": 19.7,
+      "total_races": 11
+    },
+    {
+      "name": "Midnight Storm",
+      "age": 2.0,
+      "speed": 85.7,
+      "luck": 94,
+      "win_pct": 28.6,
+      "total_races": 15
+    },
+    {
+      "name": "Silver Arrow",
+      "age": 1.4,
+      "speed": 87.6,
+      "luck": 93,
+      "win_pct": 22.9,
+      "total_races": 14
+    },
+    {
+      "name": "Desert Wind",
+      "age": 2.0,
+      "speed": 75.9,
+      "luck": 72,
+      "win_pct": 24.8,
+      "total_races": 12
+    },
+    {
+      "name": "Phantom Stride",
+      "age": 2.2,
+      "speed": 92.3,
+      "luck": 77,
+      "win_pct": 27.2,
+      "total_races": 11
+    },
+    {
+      "name": "Copper Flash",
+      "age": 2.2,
+      "speed": 78.3,
+      "luck": 76,
+      "win_pct": 21.9,
+      "total_races": 9
+    },
+    {
+      "name": "Ghost Runner",
+      "age": 3.7,
+      "speed": 92.9,
+      "luck": 62,
+      "win_pct": 38.7,
+      "total_races": 56
+    },
+    {
+      "name": "Neon Blaze",
+      "age": 3.2,
+      "speed": 89.4,
+      "luck": 68,
+      "win_pct": 38.7,
+      "total_races": 63
+    },
+    {
+      "name": "Arctic Fox",
+      "age": 3.8,
+      "speed": 94.4,
+      "luck": 67,
+      "win_pct": 39.9,
+      "total_races": 39
+    },
+    {
+      "name": "Turbo Charge",
+      "age": 3.4,
+      "speed": 83.1,
+      "luck": 89,
+      "win_pct": 34.9,
+      "total_races": 75
+    },
+    {
+      "name": "Ember Glow",
+      "age": 3.5,
+      "speed": 96.2,
+      "luck": 80,
+      "win_pct": 39.8,
+      "total_races": 93
+    },
+    {
+      "name": "Storm Chaser",
+      "age": 3.1,
+      "speed": 93.9,
+      "luck": 77,
+      "win_pct": 40.8,
+      "total_races": 68
+    },
+    {
+      "name": "Black Diamond",
+      "age": 3.4,
+      "speed": 91.3,
+      "luck": 71,
+      "win_pct": 40.2,
+      "total_races": 63
+    },
+    {
+      "name": "Lucky Strike",
+      "age": 3.1,
+      "speed": 89.9,
+      "luck": 84,
+      "win_pct": 39.5,
+      "total_races": 41
+    },
+    {
+      "name": "Wild Surge",
+      "age": 3.2,
+      "speed": 84.6,
+      "luck": 81,
+      "win_pct": 36.8,
+      "total_races": 89
+    },
+    {
+      "name": "Ivory Dash",
+      "age": 3.4,
+      "speed": 91.5,
+      "luck": 74,
+      "win_pct": 40.2,
+      "total_races": 67
+    },
+    {
+      "name": "Rogue Bolt",
+      "age": 3.9,
+      "speed": 82.2,
+      "luck": 83,
+      "win_pct": 35.0,
+      "total_races": 49
+    },
+    {
+      "name": "Sapphire Run",
+      "age": 3.5,
+      "speed": 86.3,
+      "luck": 80,
+      "win_pct": 35.6,
+      "total_races": 78
+    },
+    {
+      "name": "Canyon Wind",
+      "age": 3.4,
+      "speed": 89.3,
+      "luck": 90,
+      "win_pct": 39.7,
+      "total_races": 68
+    },
+    {
+      "name": "Rusty Nail",
+      "age": 3.8,
+      "speed": 90.1,
+      "luck": 63,
+      "win_pct": 38.5,
+      "total_races": 73
+    },
+    {
+      "name": "Marble Speed",
+      "age": 3.5,
+      "speed": 85.2,
+      "luck": 71,
+      "win_pct": 36.1,
+      "total_races": 55
+    },
+    {
+      "name": "Lone Howl",
+      "age": 4.1,
+      "speed": 55.6,
+      "luck": 85,
+      "win_pct": 21.2,
+      "total_races": 58
+    },
+    {
+      "name": "Solar Flare",
+      "age": 2.5,
+      "speed": 63.6,
+      "luck": 94,
+      "win_pct": 26.0,
+      "total_races": 35
+    },
+    {
+      "name": "Tidal Wave",
+      "age": 4.3,
+      "speed": 63.9,
+      "luck": 87,
+      "win_pct": 24.4,
+      "total_races": 66
+    },
+    {
+      "name": "Inferno Rush",
+      "age": 2.6,
+      "speed": 60.2,
+      "luck": 89,
+      "win_pct": 26.4,
+      "total_races": 28
+    },
+    {
+      "name": "Cobalt Streak",
+      "age": 4.4,
+      "speed": 48.3,
+      "luck": 98,
+      "win_pct": 20.4,
+      "total_races": 33
+    },
+    {
+      "name": "Dusty Trail",
+      "age": 4.0,
+      "speed": 58.8,
+      "luck": 94,
+      "win_pct": 26.8,
+      "total_races": 45
+    },
+    {
+      "name": "Feral Sprint",
+      "age": 3.8,
+      "speed": 53.8,
+      "luck": 99,
+      "win_pct": 22.9,
+      "total_races": 27
+    },
+    {
+      "name": "Golden Gate",
+      "age": 2.6,
+      "speed": 45.4,
+      "luck": 92,
+      "win_pct": 19.3,
+      "total_races": 57
+    },
+    {
+      "name": "Hazard Light",
+      "age": 2.6,
+      "speed": 57.6,
+      "luck": 92,
+      "win_pct": 26.2,
+      "total_races": 24
+    },
+    {
+      "name": "Jungle Flash",
+      "age": 4.2,
+      "speed": 46.4,
+      "luck": 92,
+      "win_pct": 19.0,
+      "total_races": 37
+    },
+    {
+      "name": "Knight Rider",
+      "age": 3.9,
+      "speed": 72.0,
+      "luck": 38,
+      "win_pct": 29.6,
+      "total_races": 116
+    },
+    {
+      "name": "Laser Focus",
+      "age": 5.1,
+      "speed": 82.1,
+      "luck": 26,
+      "win_pct": 26.1,
+      "total_races": 86
+    },
+    {
+      "name": "Magic Carpet",
+      "age": 4.4,
+      "speed": 76.4,
+      "luck": 34,
+      "win_pct": 28.4,
+      "total_races": 135
+    },
+    {
+      "name": "Nova Burst",
+      "age": 4.8,
+      "speed": 84.8,
+      "luck": 23,
+      "win_pct": 29.2,
+      "total_races": 83
+    },
+    {
+      "name": "Ocean Drive",
+      "age": 4.2,
+      "speed": 82.9,
+      "luck": 27,
+      "win_pct": 29.3,
+      "total_races": 92
+    },
+    {
+      "name": "Pegasus Run",
+      "age": 4.4,
+      "speed": 76.3,
+      "luck": 28,
+      "win_pct": 26.8,
+      "total_races": 109
+    },
+    {
+      "name": "Quick Silver",
+      "age": 5.3,
+      "speed": 76.6,
+      "luck": 37,
+      "win_pct": 23.8,
+      "total_races": 86
+    },
+    {
+      "name": "Rapid Fire",
+      "age": 5.5,
+      "speed": 82.5,
+      "luck": 22,
+      "win_pct": 27.0,
+      "total_races": 139
+    },
+    {
+      "name": "Steel Trap",
+      "age": 4.0,
+      "speed": 76.1,
+      "luck": 35,
+      "win_pct": 32.2,
+      "total_races": 93
+    },
+    {
+      "name": "Titan Fury",
+      "age": 5.3,
+      "speed": 72.5,
+      "luck": 20,
+      "win_pct": 22.9,
+      "total_races": 104
+    },
+    {
+      "name": "Urban Legend",
+      "age": 5.1,
+      "speed": 76.8,
+      "luck": 33,
+      "win_pct": 27.2,
+      "total_races": 124
+    },
+    {
+      "name": "Velvet Rush",
+      "age": 5.5,
+      "speed": 78.3,
+      "luck": 42,
+      "win_pct": 24.3,
+      "total_races": 111
+    },
+    {
+      "name": "Warpath",
+      "age": 5.6,
+      "speed": 84.5,
+      "luck": 68,
+      "win_pct": 27.6,
+      "total_races": 147
+    },
+    {
+      "name": "Xenon Blaze",
+      "age": 6.5,
+      "speed": 69.0,
+      "luck": 68,
+      "win_pct": 20.4,
+      "total_races": 130
+    },
+    {
+      "name": "Yellow Fever",
+      "age": 6.7,
+      "speed": 70.7,
+      "luck": 80,
+      "win_pct": 19.3,
+      "total_races": 132
+    },
+    {
+      "name": "Zero Hour",
+      "age": 5.4,
+      "speed": 78.1,
+      "luck": 71,
+      "win_pct": 25.8,
+      "total_races": 115
+    },
+    {
+      "name": "Alpha Strike",
+      "age": 6.9,
+      "speed": 77.7,
+      "luck": 68,
+      "win_pct": 20.2,
+      "total_races": 138
+    },
+    {
+      "name": "Beta Surge",
+      "age": 5.2,
+      "speed": 79.2,
+      "luck": 68,
+      "win_pct": 26.4,
+      "total_races": 133
+    },
+    {
+      "name": "Comet Tail",
+      "age": 5.5,
+      "speed": 79.4,
+      "luck": 60,
+      "win_pct": 25.3,
+      "total_races": 115
+    },
+    {
+      "name": "Delta Force",
+      "age": 5.3,
+      "speed": 79.0,
+      "luck": 64,
+      "win_pct": 27.8,
+      "total_races": 120
+    },
+    {
+      "name": "Echo Chamber",
+      "age": 6.9,
+      "speed": 68.2,
+      "luck": 69,
+      "win_pct": 20.6,
+      "total_races": 136
+    },
+    {
+      "name": "Fallen Star",
+      "age": 5.1,
+      "speed": 71.6,
+      "luck": 58,
+      "win_pct": 25.9,
+      "total_races": 108
+    },
+    {
+      "name": "Galloping Ghost",
+      "age": 7.8,
+      "speed": 62.0,
+      "luck": 41,
+      "win_pct": 13.9,
+      "total_races": 108
+    },
+    {
+      "name": "Hailstorm",
+      "age": 7.8,
+      "speed": 57.6,
+      "luck": 49,
+      "win_pct": 14.5,
+      "total_races": 141
+    },
+    {
+      "name": "Ironsides",
+      "age": 6.5,
+      "speed": 60.4,
+      "luck": 39,
+      "win_pct": 17.9,
+      "total_races": 149
+    },
+    {
+      "name": "Jade Runner",
+      "age": 7.9,
+      "speed": 43.4,
+      "luck": 33,
+      "win_pct": 9.4,
+      "total_races": 146
+    },
+    {
+      "name": "Kinetic Energy",
+      "age": 7.3,
+      "speed": 46.8,
+      "luck": 49,
+      "win_pct": 13.1,
+      "total_races": 103
+    },
+    {
+      "name": "Lightning Rod",
+      "age": 6.8,
+      "speed": 55.9,
+      "luck": 38,
+      "win_pct": 15.5,
+      "total_races": 122
+    },
+    {
+      "name": "Meteor Shower",
+      "age": 7.9,
+      "speed": 61.2,
+      "luck": 32,
+      "win_pct": 14.3,
+      "total_races": 130
+    },
+    {
+      "name": "Night Crawler",
+      "age": 6.9,
+      "speed": 40.1,
+      "luck": 54,
+      "win_pct": 11.9,
+      "total_races": 98
+    },
+    {
+      "name": "Orbit Run",
+      "age": 1.2,
+      "speed": 72.2,
+      "luck": 57,
+      "win_pct": 13.7,
+      "total_races": 7
+    },
+    {
+      "name": "Polar Express",
+      "age": 1.1,
+      "speed": 78.4,
+      "luck": 62,
+      "win_pct": 11.9,
+      "total_races": 3
+    },
+    {
+      "name": "Quantum Leap",
+      "age": 1.7,
+      "speed": 67.5,
+      "luck": 44,
+      "win_pct": 11.4,
+      "total_races": 7
+    },
+    {
+      "name": "Red Mist",
+      "age": 1.2,
+      "speed": 77.0,
+      "luck": 65,
+      "win_pct": 11.3,
+      "total_races": 1
+    },
+    {
+      "name": "Sand Storm",
+      "age": 1.2,
+      "speed": 57.5,
+      "luck": 43,
+      "win_pct": 11.0,
+      "total_races": 6
+    },
+    {
+      "name": "Thunderhead",
+      "age": 1.7,
+      "speed": 62.2,
+      "luck": 59,
+      "win_pct": 10.8,
+      "total_races": 3
+    },
+    {
+      "name": "Ultra Sonic",
+      "age": 1.2,
+      "speed": 54.9,
+      "luck": 65,
+      "win_pct": 9.7,
+      "total_races": 3
+    },
+    {
+      "name": "Viper Strike",
+      "age": 1.0,
+      "speed": 72.1,
+      "luck": 50,
+      "win_pct": 14.3,
+      "total_races": 7
+    },
+    {
+      "name": "Wild Mustang",
+      "age": 5.1,
+      "speed": 66.2,
+      "luck": 48,
+      "win_pct": 23.3,
+      "total_races": 40
+    },
+    {
+      "name": "X-Factor",
+      "age": 2.8,
+      "speed": 67.4,
+      "luck": 67,
+      "win_pct": 27.8,
+      "total_races": 60
+    },
+    {
+      "name": "Yellow Flash",
+      "age": 4.9,
+      "speed": 59.2,
+      "luck": 49,
+      "win_pct": 22.0,
+      "total_races": 82
+    },
+    {
+      "name": "Zephyr Wind",
+      "age": 3.2,
+      "speed": 50.5,
+      "luck": 46,
+      "win_pct": 21.2,
+      "total_races": 55
+    },
+    {
+      "name": "Atom Smasher",
+      "age": 5.1,
+      "speed": 69.3,
+      "luck": 48,
+      "win_pct": 23.9,
+      "total_races": 52
+    },
+    {
+      "name": "Blinding Speed",
+      "age": 3.7,
+      "speed": 69.6,
+      "luck": 57,
+      "win_pct": 30.5,
+      "total_races": 51
+    },
+    {
+      "name": "Chaos Theory",
+      "age": 2.8,
+      "speed": 69.4,
+      "luck": 45,
+      "win_pct": 30.4,
+      "total_races": 67
+    },
+    {
+      "name": "Dark Matter",
+      "age": 3.3,
+      "speed": 52.2,
+      "luck": 53,
+      "win_pct": 23.1,
+      "total_races": 52
+    },
+    {
+      "name": "Electric Slide",
+      "age": 3.4,
+      "speed": 62.1,
+      "luck": 56,
+      "win_pct": 26.0,
+      "total_races": 37
+    },
+    {
+      "name": "Frozen Fire",
+      "age": 4.2,
+      "speed": 55.1,
+      "luck": 62,
+      "win_pct": 19.4,
+      "total_races": 57
+    },
+    {
+      "name": "Grand Illusion",
+      "age": 5.7,
+      "speed": 38.5,
+      "luck": 38,
+      "win_pct": 12.0,
+      "total_races": 35
+    },
+    {
+      "name": "Hot Pursuit",
+      "age": 2.3,
+      "speed": 41.6,
+      "luck": 25,
+      "win_pct": 17.4,
+      "total_races": 50
+    },
+    {
+      "name": "Ice Breaker",
+      "age": 2.5,
+      "speed": 47.5,
+      "luck": 31,
+      "win_pct": 20.0,
+      "total_races": 49
+    },
+    {
+      "name": "Jet Stream",
+      "age": 3.3,
+      "speed": 42.4,
+      "luck": 32,
+      "win_pct": 16.9,
+      "total_races": 26
+    },
+    {
+      "name": "Karma Rush",
+      "age": 4.7,
+      "speed": 34.5,
+      "luck": 38,
+      "win_pct": 13.0,
+      "total_races": 32
+    },
+    {
+      "name": "Last Resort",
+      "age": 3.2,
+      "speed": 38.7,
+      "luck": 15,
+      "win_pct": 15.5,
+      "total_races": 48
+    },
+    {
+      "name": "Moon Shadow",
+      "age": 3.7,
+      "speed": 39.5,
+      "luck": 35,
+      "win_pct": 16.5,
+      "total_races": 51
+    },
+    {
+      "name": "Natural Born",
+      "age": 3.8,
+      "speed": 30.3,
+      "luck": 30,
+      "win_pct": 13.2,
+      "total_races": 31
+    },
+    {
+      "name": "Open Road",
+      "age": 3.1,
+      "speed": 41.6,
+      "luck": 34,
+      "win_pct": 16.5,
+      "total_races": 52
+    },
+    {
+      "name": "Paper Tiger",
+      "age": 5.8,
+      "speed": 30.9,
+      "luck": 24,
+      "win_pct": 10.6,
+      "total_races": 38
+    },
+    {
+      "name": "Quantum Rush",
+      "age": 1.8,
+      "speed": 35.9,
+      "luck": 97,
+      "win_pct": 13.9,
+      "total_races": 24
+    },
+    {
+      "name": "Raging Bull",
+      "age": 1.6,
+      "speed": 43.3,
+      "luck": 100,
+      "win_pct": 14.2,
+      "total_races": 23
+    },
+    {
+      "name": "Solar Wind",
+      "age": 2.9,
+      "speed": 44.9,
+      "luck": 93,
+      "win_pct": 14.0,
+      "total_races": 9
+    },
+    {
+      "name": "Time Bomb",
+      "age": 1.5,
+      "speed": 50.0,
+      "luck": 91,
+      "win_pct": 16.6,
+      "total_races": 29
+    },
+    {
+      "name": "Undertow",
+      "age": 1.9,
+      "speed": 54.2,
+      "luck": 98,
+      "win_pct": 16.3,
+      "total_races": 19
+    }
+  ]
+}
